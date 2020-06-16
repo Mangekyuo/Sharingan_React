@@ -1,0 +1,12 @@
+.Body{
+    background-color: black;
+}
+.Elish{
+    display: inline-block;
+    position: absolute;
+    background-image: url("1.jpg");
+    width: 168px;
+    height: 168px;
+    margin-left: 45vw;
+    margin-top: 35vh;
+}
